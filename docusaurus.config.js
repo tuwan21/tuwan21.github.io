@@ -93,9 +93,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '教程',
+            label: 'Tutorial1',
           },
-          {to: '/blog', label: '博客', position: 'left'},
+          {to: '/blog', label: 'blog1', position: 'left'},
           {to: '/about', label: '关于我', position: 'left'},
           {
             href: 'https://github.com/tuwan21',
