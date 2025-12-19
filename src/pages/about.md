@@ -6,7 +6,7 @@ title: 关于我
 
 ## 个人简介
 - 爱好：编程、阅读、旅行
-- 技术栈：JavaScript、React、Python
+- 技术栈：Golang、JavaScript、Vue
 - 邮箱：tuwan21@xxx.com
 
 ## 我的项目
