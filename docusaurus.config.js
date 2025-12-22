@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'koyal 的小站',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Build. Think. Improve.',
   favicon: 'img/avatar.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -98,8 +98,10 @@ const config = {
           {to: '/blog', label: 'blog', position: 'left'},
           {to: '/about', label: '关于我', position: 'left'},
           {
-            href: 'https://github.com/tuwan21',
+            href: 'https://github.com/tuwan21/tuwan21.github.io',
             label: 'GitHub',
+            // className: 'header-github-link',
+            // 'aria-label': 'GitHub repository',
             position: 'right',
           },
         ],
@@ -142,7 +144,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/tuwan21',
+                href: 'https://github.com/tuwan21/tuwan21.github.io',
               },
             ],
           },
